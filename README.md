@@ -3,7 +3,8 @@
 
 ENUNCIADO EJERCICIO EVALUACION
 
-Continuando en el proyecto anterior , se pide realizar las siguientes tareas:
+Continuando en el proyecto anterior , se pide realizar las siguientes tareas
+
 1.- En el paquete app.modelo crear la clase encapsulada Autor con las siguientes propiedades:
 	String nombre
 	String nacionalidad
